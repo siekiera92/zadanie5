@@ -56,4 +56,6 @@ function onError() {
     alert('onError!');
 };
 
-navigator.accelerometer.getCurrentAcceleration(onSuccess, onError);
+function onDeviceReady() {
+        navigator.accelerometer.getCurrentAcceleration(onSuccess, onError);
+    }

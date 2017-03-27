@@ -4,8 +4,8 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Network</name>
-    <description>Sprawdza neta</description>
+    <name>Ruch</name>
+    <description>Sprawdza czy sie rusza</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
